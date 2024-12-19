@@ -10,7 +10,7 @@ The datasets used in this project are as follows:
 - **English Letters Dataset: emnist** [Link to Kaggle Dataset](https://www.kaggle.com/datasets/crawford/emnist)  
 
 After preprocessing, the combined and split data files are Uploaded to Hugging Face :  
-**[combined_arabic_english_letters](https://huggingface.co/datasetsanassaleh218/combined_arabic_english_letters)**
+**[combined_arabic_english_letters](https://huggingface.co/datasets/anassaleh218/combined_arabic_english_letters)**
 - [`train_data.npy`](https://huggingface.co/datasets/anassaleh218/combined_arabic_english_letters/blob/main/train_data.npy)  
 - [`test_data.npy`](https://huggingface.co/datasets/anassaleh218/combined_arabic_english_letters/blob/main/test_data.npy) 
 - [`train_labels.npy`](https://huggingface.co/datasets/anassaleh218/combined_arabic_english_letters/blob/main/train_labels.npy)
