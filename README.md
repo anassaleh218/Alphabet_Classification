@@ -37,4 +37,4 @@ The trained models are hosted on Hugging Face and are organized as follows:
 
 ## Documentation
 
-For detailed information about the datasets, models, preprocessing steps, and evaluation metrics, refer to the [documentation](https://github.com/anassaleh218/Alphabet_Classification/raw/refs/heads/main/Alphabet%20Classification.docx).  
+For detailed information about the datasets, models, preprocessing steps, and evaluation metrics, refer to the [documentation](https://github.com/anassaleh218/Alphabet_Classification/blob/main/Alphabet%20Classification.docx).  
