@@ -6,8 +6,8 @@
 ## Data
 
 The datasets used in this project are as follows: 
-- **Arabic Letters Dataset: ahcd1**: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/mloey1/ahcd1/code)  
-- **English Letters Dataset: emnist**: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/crawford/emnist)  
+- **Arabic Letters Dataset: ahcd1** [Link to Kaggle Dataset](https://www.kaggle.com/datasets/mloey1/ahcd1/code)  
+- **English Letters Dataset: emnist** [Link to Kaggle Dataset](https://www.kaggle.com/datasets/crawford/emnist)  
 
 After preprocessing, the combined and split data files are Uploaded to Hugging Face :  
 **[combined_arabic_english_letters](anassaleh218/combined_arabic_english_letters)**
@@ -24,7 +24,7 @@ The trained models are hosted on Hugging Face and are organized as follows:
 
 ### ResNet
 - **H5 Format**: [Link to ResNet H5](#)  
-- **Keras Format**: [Link to ResNet Keras]([#](https://huggingface.co/)MennaEssam/resnet_model_keras)  
+- **Keras Format**: [Link to ResNet Keras](https://huggingface.co/MennaEssam/resnet_model_keras)  
 
 ### DenseNet
 - **H5 Format**: [Link to DenseNet H5](https://huggingface.co/anassaleh218/densenet_model_h5)  
