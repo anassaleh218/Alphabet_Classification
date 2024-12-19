@@ -23,7 +23,6 @@ After preprocessing, the combined and split data files are Uploaded to Hugging F
 The trained models are hosted on Hugging Face and are organized as follows:  
 
 ### ResNet
-- **H5 Format**: [Link to ResNet H5](#)  
 - **Keras Format**: [Link to ResNet Keras](https://huggingface.co/MennaEssam/resnet_model_keras)  
 
 ### DenseNet
